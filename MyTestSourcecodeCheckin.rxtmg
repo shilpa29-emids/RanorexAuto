@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="MyTestSourcecodeCheckin"
+      id="80a3c07f-2cb4-459a-8dd2-29c7d788adb7"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="MyTestSourcecodeCheckin"
+      id="80a3c07f-2cb4-459a-8dd2-29c7d788adb7"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
